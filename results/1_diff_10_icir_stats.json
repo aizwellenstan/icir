@@ -1,0 +1,46 @@
+[
+  {
+    "IC Kurtosis": NaN,
+    "IC Mean": 0.01741992750994353,
+    "IC Skew": NaN,
+    "IC Std.": 0.23254698097485518,
+    "IR": 0.07490928257558033,
+    "Risk-Adjusted IC": 0.07490928257558033,
+    "p-value(IC)": NaN,
+    "period": "1D",
+    "t-stat(IC)": NaN
+  },
+  {
+    "IC Kurtosis": NaN,
+    "IC Mean": 0.019016560088524082,
+    "IC Skew": NaN,
+    "IC Std.": 0.22341126951675377,
+    "IR": 0.08511907268446016,
+    "Risk-Adjusted IC": 0.08511907268446016,
+    "p-value(IC)": NaN,
+    "period": "5D",
+    "t-stat(IC)": NaN
+  },
+  {
+    "IC Kurtosis": NaN,
+    "IC Mean": 0.015844526780438007,
+    "IC Skew": NaN,
+    "IC Std.": 0.2226336084707326,
+    "IR": 0.07116862044896931,
+    "Risk-Adjusted IC": 0.07116862044896931,
+    "p-value(IC)": NaN,
+    "period": "10D",
+    "t-stat(IC)": NaN
+  },
+  {
+    "IC Kurtosis": NaN,
+    "IC Mean": 0.013889826305473071,
+    "IC Skew": NaN,
+    "IC Std.": 0.21555761599678366,
+    "IR": 0.06443672259615416,
+    "Risk-Adjusted IC": 0.06443672259615416,
+    "p-value(IC)": NaN,
+    "period": "20D",
+    "t-stat(IC)": NaN
+  }
+]
